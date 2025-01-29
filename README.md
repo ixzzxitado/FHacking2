@@ -15,7 +15,7 @@ apt-get install git
 apt-get install python3
 
 git clone
-https://github.com/ixzzxitado/FHacking
+https://github.com/w3irdguy/FHacking
 
 cd FHacking
 
@@ -27,7 +27,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/ixzzxitado/FHacking
+git clone https://github.com/w3irdguy/FHacking
 
 cd FHacking
 
